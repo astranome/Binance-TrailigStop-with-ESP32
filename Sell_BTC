@@ -73,7 +73,7 @@ while True:
                 from hashlib._sha256 import sha256
                                                    # msg = msg ; msg
                 sign = hmac.new(
-                                b'xQpOoyHTWm8jRc5wK4CvgsThF3JNxvGgj987meB7rmPaSUIKJsxLhUTTalrHqpUz',
+                                b'343434343434343434343434343434343434343434',
                
                                 msg=msg,
 
