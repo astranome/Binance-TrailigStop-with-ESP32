@@ -58,8 +58,8 @@ while True:
 
                 tmsp = (int(time.time()) + 946684800 -1) * 1000
                 tmsp
-                API_KEY='EEt5ipvr7JMMn1CSO6alvf6lEKk4Dmz05WOXfdb7TcaBWMqn9evA8PeTjx7e4Ewe' 
-                API_SECRET = bytearray(b'xQpOoyHTWm8jRc5wK4CvgsThF3JNxvGgj987meB7rmPaSUuyJsxLhUTTalrHqpUz')
+                API_KEY='wqwqwqwqwqwqwqwqwq' 
+                API_SECRET = bytearray(b'kjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkjkj')
                 symbol='BTCUSDT'
                 amount = 0.0003
                 side ='SELL'
